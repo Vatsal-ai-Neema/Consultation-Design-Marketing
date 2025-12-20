@@ -106,6 +106,3 @@ def subscribe():
     db.session.add(s)
     db.session.commit()
     return redirect("/")
-
-if __name__ == "__main__":
-    app.run()
