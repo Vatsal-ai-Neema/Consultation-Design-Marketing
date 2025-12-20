@@ -56,6 +56,7 @@ The project includes dynamic sections for **Projects**, **Clients**, and **Conta
 -Backup & restore support
 
 👤Author
+
 Vatsal Neema
 GitHub: https://github.com/Vatsal-ai-Neema
 
