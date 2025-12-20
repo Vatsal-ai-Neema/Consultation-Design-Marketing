@@ -7,6 +7,10 @@ https://consultation-design-marketing-1.onrender.com
 A full-stack **Flask-based web application** for a digital consultation & marketing agency.  
 The project includes dynamic sections for **Projects**, **Clients**, and **Contact management**, along with an **Admin Panel** for managing content.
 
+🌐 Live Demo Video
+🔗 Deployed Google Drive Link For Viewing
+https://drive.google.com/file/d/199IxG8Tz8KjVCAYgl25-OKWMR-80Kwrd/view?usp=sharing
+
 ---
 
 ## 🚀 Features
